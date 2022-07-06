@@ -1,5 +1,5 @@
 name: 'Nrwl Nx'
-author: 'Mansa Group'
+author: 'TrustCerts'
 description: 'Wrap the Nx monorepo tool and execute tasks depending on the action context'
 inputs:
   targets:
